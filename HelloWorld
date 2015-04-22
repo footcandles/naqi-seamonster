@@ -1,5 +1,0 @@
-using System;
-public static void Main()
-{
-Console.WriteLine("Hello How are u");
-}
